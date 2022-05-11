@@ -2,11 +2,11 @@
 
 Scrapy es una biblioteca de Python para la recolección de datos en WEB con un método conocido cómo Web Scraping que facilita la obtención de diferentes tipos de datos en forma masiva.
 
-<strong>Instalar scrapy en entorno virtual: conda install conda-forge scrapy</strong>
+<strong>Instalar scrapy en entorno virtual: <p>conda install conda-forge scrapy</p></strong>
 <br>
-<strong>Crear un nuevo proyecto: scrapy startproject "nombre del proyecto"</strong>
+<strong>Crear un nuevo proyecto:<p> scrapy startproject "nombre del proyecto"</p></strong>
 <br>
-<strong>Creación de spiders: scrapy genspider "nobre" "URL"</strong>
+<strong>Creación de spiders:<p> scrapy genspider "nobre" "URL"</p></strong>
 <br>
 <strong>Ejecución de scrapy:</strong> 
   <br>
